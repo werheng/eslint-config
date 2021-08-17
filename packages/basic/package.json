@@ -1,0 +1,13 @@
+{
+  "name": "@werheng/eslint-config-basic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Werheng Zhang <vhang97@163.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": ">=7.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
+}

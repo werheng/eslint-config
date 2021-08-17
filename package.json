@@ -1,0 +1,16 @@
+{
+  "name": "@werheng/eslint-config-monorepo",
+  "version": "1.0.0",
+  "description": "My eslint config",
+  "main": "index.js",
+  "author": "Werheng Zhang <vhang97@163.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "lerna": "^4.0.0"
+  }
+}
