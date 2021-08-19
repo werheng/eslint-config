@@ -1,6 +1,6 @@
 {
   "name": "@werheng/eslint-config-vue",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "author": "Werheng Zhang <vhang97@163.com>",
   "license": "MIT",
@@ -8,7 +8,7 @@
     "eslint": ">=7.4.0"
   },
   "dependencies": {
-    "@werheng/eslint-config-ts": "^1.0.0",
+    "@werheng/eslint-config-ts": "^1.0.1",
     "eslint-plugin-vue": "^7.16.0"
   },
   "devDependencies": {
