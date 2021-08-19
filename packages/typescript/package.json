@@ -1,5 +1,5 @@
 {
-  "name": "@werheng/eslint-config-vue",
+  "name": "@werheng/eslint-config-ts",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Werheng Zhang <vhang97@163.com>",
@@ -8,8 +8,9 @@
     "eslint": ">=7.4.0"
   },
   "dependencies": {
-    "@werheng/eslint-config-ts": "^1.0.0",
-    "eslint-plugin-vue": "^7.16.0"
+    "@typescript-eslint/eslint-plugin": "^4.29.2",
+    "@typescript-eslint/parser": "^4.29.2",
+    "@werheng/eslint-config-basic": "^1.0.0"
   },
   "devDependencies": {
     "eslint": "^7.32.0"
