@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "description": "My eslint config preset",
   "main": "index.js",
-  "author": "Werheng Zhang <vhang97@163.com>",
+  "author": "Werheng Zhang <vhang97@163.com> (https://github.com/werheng)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/werheng/eslint-config.git"
+  },
   "license": "MIT",
   "private": true,
   "workspaces": [
