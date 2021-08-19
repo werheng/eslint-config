@@ -1,6 +1,6 @@
 # @werheng/eslint-config
 
-My personal eslint config preset
+My eslint config preset
 
 ## Usage
 
@@ -15,4 +15,3 @@ module.exports = {
 ```bash
 npm i @werheng/eslint-config -D # or yarn add @werheng/eslint-config -D
 ```
-

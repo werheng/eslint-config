@@ -1,7 +1,7 @@
 {
   "name": "@werheng/eslint-config-monorepo",
   "version": "1.0.0",
-  "description": "My eslint config",
+  "description": "My eslint config preset",
   "main": "index.js",
   "author": "Werheng Zhang <vhang97@163.com>",
   "license": "MIT",
