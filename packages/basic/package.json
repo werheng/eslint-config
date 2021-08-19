@@ -2,7 +2,11 @@
   "name": "@werheng/eslint-config-basic",
   "version": "1.0.1",
   "main": "index.js",
-  "author": "Werheng Zhang <vhang97@163.com>",
+  "author": "Werheng Zhang <vhang97@163.com> (https://github.com/werheng)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/werheng/eslint-config.git"
+  },
   "license": "MIT",
   "peerDependencies": {
     "eslint": ">=7.4.0"
