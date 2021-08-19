@@ -8,6 +8,9 @@
     "url": "https://github.com/werheng/eslint-config.git"
   },
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "peerDependencies": {
     "eslint": ">=7.4.0"
   },
