@@ -13,5 +13,5 @@ module.exports = {
 ## Install
 
 ```bash
-npm i @werheng/eslint-config -D # or yarn add @werheng/eslint-config -D
+npm i @werheng/eslint-config eslint prettier -D # or yarn add @werheng/eslint-config eslint prettier -D
 ```
