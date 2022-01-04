@@ -1,6 +1,6 @@
 {
   "name": "@werheng/eslint-config-ts",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "main": "index.js",
   "author": "Werheng Zhang <vhang97@163.com> (https://github.com/werheng)",
   "repository": {
@@ -17,7 +17,7 @@
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.9.0",
     "@typescript-eslint/parser": "^5.9.0",
-    "@werheng/eslint-config-basic": "^1.1.0"
+    "@werheng/eslint-config-basic": "^1.2.0"
   },
   "devDependencies": {
     "eslint": "^8.6.0"
