@@ -16,9 +16,9 @@
   },
   "dependencies": {
     "@werheng/eslint-config-ts": "^1.1.0",
-    "eslint-plugin-vue": "^7.16.0"
+    "eslint-plugin-vue": "^8.2.0"
   },
   "devDependencies": {
-    "eslint": "^7.32.0"
+    "eslint": "^8.6.0"
   }
 }

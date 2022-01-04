@@ -20,12 +20,12 @@
     "@werheng/eslint-config": "*",
     "commitizen": "^4.2.4",
     "cz-conventional-changelog": "^3.3.0",
-    "eslint": "^7.32.0",
+    "eslint": "^8.6.0",
     "lerna": "^4.0.0",
-    "prettier": "^2.3.2"
+    "prettier": "^2.5.1"
   },
   "config": {
-    "commitizen":{
+    "commitizen": {
       "path": "cz-conventional-changelog"
     }
   }

@@ -15,10 +15,10 @@
     "eslint": ">=7.4.0"
   },
   "devDependencies": {
-    "eslint": "^7.32.0"
+    "eslint": "^8.6.0"
   },
   "dependencies": {
     "eslint-config-prettier": "^8.3.0",
-    "eslint-plugin-prettier": "^3.4.0"
+    "eslint-plugin-prettier": "^4.0.0"
   }
 }

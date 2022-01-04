@@ -15,11 +15,11 @@
     "eslint": ">=7.4.0"
   },
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^4.29.2",
-    "@typescript-eslint/parser": "^4.29.2",
+    "@typescript-eslint/eslint-plugin": "^5.9.0",
+    "@typescript-eslint/parser": "^5.9.0",
     "@werheng/eslint-config-basic": "^1.1.0"
   },
   "devDependencies": {
-    "eslint": "^7.32.0"
+    "eslint": "^8.6.0"
   }
 }
